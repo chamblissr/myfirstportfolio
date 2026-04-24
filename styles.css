@@ -1,0 +1,18 @@
+/* CSS by Rebekkah Chambliss*/
+
+/* Color Palette 
+
+medium red: #BF2A37
+light red:#D92B4B
+deep black:#0D0A09
+dark red: #731F1F
+white: #F2F2F2
+*/
+
+/*GLOBAL (base) MOBILE FIRST*/
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #F2F2F2;
+    color: #0D0A09;
+}
