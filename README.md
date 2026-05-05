@@ -3,7 +3,7 @@ myfirstportfolio
 
 My First Portfolio by, Rebekkah Chambliss.
 
-This is the skeleton build for my portfolio, I am going continue to add to this site and will showcase my work from GIT 215: Introduction to Web Authoring.
+This is my finished webpage for my portfolio project. I have additional navigation that redirect to the other pages in my site from the homepage. I added buttons in my contacts that lead to my github and codepen accounts. And buttons in my portfolio section that lead to my other projects. Included pictures of myself.
 
 /==============================================================/
 
